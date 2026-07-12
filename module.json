@@ -1,0 +1,18 @@
+{
+  "id": "shoutcast-player-v2",
+  "title": "SHOUTcast Player (Improved)",
+  "description": "Improved audio stream player with connection state management and auto-retry. Plays a SHOUTcast/Icecast audio stream from the Token Controls toolbar.",
+  "version": "2.0.0",
+  "authors": [
+    {
+      "name": "Owen and his buddy Al"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.359"
+  },
+  "scripts": ["stream-player.js"],
+  "styles": ["main.css"],
+  "esmodules": []
+}
