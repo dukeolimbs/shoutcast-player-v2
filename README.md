@@ -1,4 +1,4 @@
-# SHOUTcast Player (Improved)
+# SHOUTcast Player
 
 A lightweight [Foundry VTT](https://foundryvtt.com/) module that plays a
 SHOUTcast/Icecast audio stream directly from the Token Controls toolbar — with
@@ -37,7 +37,7 @@ extract it into your Foundry `Data/modules/` folder as `shoutcast-player-v2`.
 ## Usage
 
 1. Enable the module in **Manage Modules**.
-2. Open **Game Settings → Configure Settings → SHOUTcast Player (Improved)** and
+2. Open **Game Settings → Configure Settings → SHOUTcast Player** and
    set your **Stream URL**, e.g. `http://your.stream.ip:8000/stream`.
    (This is a per-client setting.)
 3. Click the **📻 radio button** in the Token Controls toolbar to open the player.
